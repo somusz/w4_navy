@@ -1,4 +1,6 @@
 settings.json
+.gitignore
+package.json
 
 gs
 logs
