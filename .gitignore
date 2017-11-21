@@ -1,3 +1,4 @@
+migrations/
 settings.json
 .gitignore
 package.json
